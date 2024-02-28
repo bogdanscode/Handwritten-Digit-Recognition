@@ -1,2 +1,9 @@
 # Handwritten-Digit-Recognition
-TensorFlow neural network trained to recognize hand-written digits 1-9
+## Using This Repo
+  Ensure python is installed 
+  install dependencies
+## Dependencies
+  pip install numpy
+  pip install opencv-python
+  pip install matplotlib
+  pip install tensorflow
