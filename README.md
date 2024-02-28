@@ -3,7 +3,7 @@
   Ensure python is installed 
   install dependencies
 ## Dependencies
-  pip install numpy
+  pip install numpy \n
   pip install opencv-python
-  pip install matplotlib
+  pip install matplotlib /n
   pip install tensorflow
