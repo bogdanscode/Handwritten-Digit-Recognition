@@ -1,9 +1,8 @@
 # Handwritten-Digit-Recognition
 ## Using This Repo
-  Ensure python is installed 
-  install dependencies
+  ##### Ensure python is installed 
 ## Dependencies
-  pip install numpy \n
-  pip install opencv-python
-  pip install matplotlib /n
-  pip install tensorflow
+  ##### pip install numpy 
+  ##### pip install opencv-python
+  ##### pip install matplotlib 
+  ##### pip install tensorflow
